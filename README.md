@@ -1,2 +1,2 @@
 # hello-world
-This is my awesome implementation of textual logic structers that will affect the output of text to a computational devices display.
+This is my awesome implementation of a textual logic structer that will have the effect of causing text to output to a computational devices display.
